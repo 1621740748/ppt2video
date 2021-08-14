@@ -15,10 +15,12 @@ import java.awt.geom.Rectangle2D;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.*;
+import java.util.stream.Stream;
 
 import static constants.ConstantParam.*;
 
@@ -359,6 +361,12 @@ public class PptToVideoTool {
         String result = "";
         try {
             Runtime runtime = Runtime.getRuntime();
+            StringBuilder sb=new StringBuilder();
+            for(String s:commandLine) {
+            	sb.append(s).append(",");
+            }
+            System.out.println(sb.toString());
+            System.out.println("----------------------");
             Process process = runtime.exec(commandLine);
             BufferedReader stdReader = new BufferedReader(new InputStreamReader(process.getInputStream()));
             BufferedReader stdError = new BufferedReader(new InputStreamReader(process.getErrorStream()));
