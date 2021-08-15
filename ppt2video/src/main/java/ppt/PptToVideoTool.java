@@ -120,7 +120,7 @@ public class PptToVideoTool {
             // 合并视频
             createVideo(filePath, list, suffix, map);
             //删除临时文件
-            deleteTempFile();
+           // deleteTempFile();
         }
         System.out.println("输出：ppt转视频结果文件位置" + fileDirPath + FileName + "-pptToVideo.mp4");
     }
@@ -258,6 +258,7 @@ public class PptToVideoTool {
             StringBuffer sb = null;
             int length = slides.size();
             for (int i = 0; i < length; i++) {
+            	System.out.println("--------------:"+i);
                 sb = new StringBuffer();
                 // 解决乱码问题
                 List<List<XSLFTextParagraph>> shapes = slides.get(i).getNotes().getTextParagraphs();
@@ -342,7 +343,7 @@ public class PptToVideoTool {
      */
     public static void getVoicePath(String fileName, String firstDir, String secondDir, String context) {
         try {
-            String[] commandLine = new String[]{"", fileName, firstDir, secondDir, context};
+            String[] commandLine = new String[]{"", firstDir+File.separator+secondDir+File.separator+ fileName, context};
             commandLine[0] = TTSFILEPATH;
             String ttsResult = commandExecutor(commandLine);
             System.out.println("tts合成结果：" + ttsResult);
@@ -509,7 +510,7 @@ public class PptToVideoTool {
             String cmdGetAvi = "ffmpeg -i " + pptToVideoTempFilePath + "noVoice.mp4 -vcodec copy -an " + pptToVideoTempFilePath + "noVoice.avi";
             exec(cmdGetAvi);
             // 步骤二：ffmpeg替换音频命令（就是把音频视频合并起来）
-            String cmdMp4 = "ffmpeg -i " + pptToVideoTempFilePath + "noVoice.avi -i " + pptToVideoTempFilePath + "combined.wav " + fileDirPath + FileName + "-pptToVideo.mp4";
+            String cmdMp4 = "ffmpeg -i " + pptToVideoTempFilePath + "combined.wav -i " + pptToVideoTempFilePath + "noVoice.avi  " + fileDirPath + FileName + "-pptToVideo.mp4";
             exec(cmdMp4);
         }
     }

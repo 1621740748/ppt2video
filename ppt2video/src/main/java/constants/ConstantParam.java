@@ -32,5 +32,5 @@ public class ConstantParam {
     /**
      * 当前服务器tts执行文件路径
      */
-    public static final String TTSFILEPATH = "/broker-tts/bin/tts";
+    public static final String TTSFILEPATH = "/u2/data/ppt2video/tts/bin/tts.sh";
 }
