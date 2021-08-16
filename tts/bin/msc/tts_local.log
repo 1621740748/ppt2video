@@ -1,319 +1,160 @@
 ============================================================
-Time  2021/08/14 23:39:23 552 
+Time  2021/08/16 10:33:32 884 
 ============================================================
-[2021/08/14 23:39:23 552] tts_local  1837 Linux  
-[2021/08/14 23:39:23 552] tts_local  1873 SYS_MSG_REGCB_LOCAL  
-[2021/08/14 23:39:23 552] tts_local  1888 last gc at  1628955563  
-[2021/08/14 23:39:23 552] tts_local  1873 SYS_MSG_REGCB_LOCAL  
-[2021/08/14 23:39:23 552] tts_local  1888 last gc at  1628955563  
-[2021/08/14 23:39:23 552] tts_local  1680 TTS_LOCAL_MSG_SSB  engine_type=local,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  
-[2021/08/14 23:39:23 552] tts_local  1572 fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
-[2021/08/14 23:39:23 552] tts_local  1575 nil  
-[2021/08/14 23:39:23 552] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
-[2021/08/14 23:39:23 552] tts_local  890  Disperse res  
-[2021/08/14 23:39:23 552] tts_local  994  fo|res/tts/xiaoyan.jet  fo|res/tts/common.jet  
-[2021/08/14 23:39:23 552] tts_local  1579 res_change is  true  
-[2021/08/14 23:39:23 553] tts_local  1595 res change  
-[2021/08/14 23:39:23 553] tts_local  1398 lgi:  nil  nil  
-[2021/08/14 23:39:23 553] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
-[2021/08/14 23:39:23 553] tts_local  890  Disperse res  
-[2021/08/14 23:39:23 553] tts_local  852  file_type:  fo  file_path:  res/tts/xiaoyan.jet  
-[2021/08/14 23:39:23 553] tts_local  852  file_type:  fo  file_path:  res/tts/common.jet  
-[2021/08/14 23:39:23 553] tts_local  1426 fo  fo  res/tts/xiaoyan.jet  0  res/tts/common.jet  0  false  
-[2021/08/14 23:39:23 553] tts_local  1033 speech_plus_setting  0  
-[2021/08/14 23:39:23 553] tts_local  1041 fo  res/tts/xiaoyan.jet  0  0  
-[2021/08/14 23:39:23 553] tts_local  1045 res_ver  0  
-[2021/08/14 23:39:23 553] tts_local  1046 res appid5    
-[2021/08/14 23:39:23 553] tts_local  1047 res_new_old_mark  v5vn  
-[2021/08/14 23:39:23 553] tts_local  1048 res_usr_name    
-[2021/08/14 23:39:23 553] tts_local  1049 check ret  0  
-[2021/08/14 23:39:23 553] tts_local  1129 v5vn  
-[2021/08/14 23:39:23 554] tts_local  1188 now expires:  1628955563  1636276722  
-[2021/08/14 23:39:23 554] auth       86   aisound  app  nil  nil  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
-[2021/08/14 23:39:23 555] auth       165  auth get aisound_res_id  nil  
-[2021/08/14 23:39:23 555] auth       420  nil  
-[2021/08/14 23:39:23 555] tts_local  1033 speech_plus_setting  0  
-[2021/08/14 23:39:23 555] tts_local  1041 fo  res/tts/common.jet  0  0  
-[2021/08/14 23:39:23 556] tts_local  1045 res_ver  0  
-[2021/08/14 23:39:23 556] tts_local  1046 res appid5    
-[2021/08/14 23:39:23 556] tts_local  1047 res_new_old_mark  v5vn  
-[2021/08/14 23:39:23 556] tts_local  1048 res_usr_name    
-[2021/08/14 23:39:23 556] tts_local  1049 check ret  0  
-[2021/08/14 23:39:23 556] tts_local  1129 v5vn  
-[2021/08/14 23:39:23 556] tts_local  1188 now expires:  1628955563  1636276722  
-[2021/08/14 23:39:23 556] tts_local  1475 v5vn  v5vn  
-[2021/08/14 23:39:23 556] auth       86   aisound  app  nil  nil  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
-[2021/08/14 23:39:23 556] auth       165  auth get aisound_res_id  nil  
-[2021/08/14 23:39:23 556] auth       420  nil  
-[2021/08/14 23:39:23 557] tts_local  1518 fo  res/tts/xiaoyan.jet  145  fo  res/tts/common.jet  113  false  func(fc06d160) 
-[2021/08/14 23:39:23 558] tts_local  1534 engine init success  
-[2021/08/14 23:39:23 558] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
-[2021/08/14 23:39:23 558] tts_local  890  Disperse res  
-[2021/08/14 23:39:23 558] tts_local  1597 reinit ret:  0  
-[2021/08/14 23:39:23 558] tts_local  1314 app auth  
-[2021/08/14 23:39:23 559] auth       687  app  nil  nil  nil  
-[2021/08/14 23:39:23 559] auth       744  ath rquest  {"authorize":[{"busin":"aisound","ver":"2.1.1"}]}  
-[2021/08/14 23:39:23 559] config     91   select default  
-[2021/08/14 23:39:23 559] config     113  use general cloud  
-[2021/08/14 23:39:23 559] transport  645  paramkvsport is   nil  
-[2021/08/14 23:39:23 559] transport  657  ns_enable=  1  
-[2021/08/14 23:39:23 559] transport  659  2017-08--24 is_ns_need_close =   nil  
-[2021/08/14 23:39:23 559] transport  665  net.nettype=  unknown  
-[2021/08/14 23:39:23 559] transport  675  url.full=  nil  
-[2021/08/14 23:39:23 559] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
-[2021/08/14 23:39:23 559] transport  907  net type:  unknown  
-[2021/08/14 23:39:23 559] transport  908  net operator:  def  
-[2021/08/14 23:39:23 559] transport  909  use proxy:  false  
-[2021/08/14 23:39:23 559] auth       799  not login!  
-[2021/08/14 23:39:23 559] auth       636  [session] send auth request  
-[2021/08/14 23:39:23 559] transport  1105 session.domain=  open.xf-yun.com  
-[2021/08/14 23:39:23 559] transport  1106 url.host=  open.xf-yun.com  
-[2021/08/14 23:39:23 559] transport  1083 NAMESERVER START  
-[2021/08/14 23:39:23 559] transport  1086 name =   ath  
-[2021/08/14 23:39:23 559] ns         634  ntt=  unknown  
-[2021/08/14 23:39:23 559] transport  1089 trans,ns_inprog =  0  
-[2021/08/14 23:39:23 560] ns         582  name server start  
-[2021/08/14 23:39:23 560] ns         588  ns_sub =   ath  
-[2021/08/14 23:39:23 560] ns         596  ns_host =   open.xf-yun.com  
-[2021/08/14 23:39:23 560] ns         475  ns_host=  open.xf-yun.com  
-[2021/08/14 23:39:23 560] ns         555  net_type =  standard  
-[2021/08/14 23:39:23 560] ns         556  cmwapascmnet =  
-[2021/08/14 23:39:23 560] ns         557  uniwapasuninet =  
-[2021/08/14 23:39:23 560] ns         558  ctwapasctnet =  
-[2021/08/14 23:39:23 560] ns         576  host=  hdns.xf-yun.com  
-[2021/08/14 23:39:23 560] network    263  gethostbyname  hdns.xf-yun.com  ns1  
-[2021/08/14 23:39:23 560] auth       643  0  
-[2021/08/14 23:39:23 560] auth       606  lver:  nil  
-[2021/08/14 23:39:23 560] auth       611  cfg_ver:  nil  
-[2021/08/14 23:39:23 560] transport  1860 transport_obj.send | in  
-[2021/08/14 23:39:23 560] transport  1866 self.msg_flag_q  table(fc03be10) 
-[2021/08/14 23:39:23 560] transport  1867 self.msg_q  table(fc008f80) 
-[2021/08/14 23:39:23 560] transport  1799 transport_obj.try2send | in  
-[2021/08/14 23:39:23 560] transport  1800 self.soc  nil  
-[2021/08/14 23:39:23 560] transport  1801 self.connected  false  
-[2021/08/14 23:39:23 560] transport  1802 self.latesterr  0  
-[2021/08/14 23:39:23 560] transport  1873 transport_obj.send | out  
-[2021/08/14 23:39:23 561] tts_local  1367 forbid_aisound =  0  
-[2021/08/14 23:39:23 561] tts_local  1644 set voice name:  xiaoyan  
-[2021/08/14 23:39:23 561] tts_local  1646 set default voice name:  xiaoyan  
-[2021/08/14 23:39:23 561] tts_local  295  speed increase:  1  
-[2021/08/14 23:39:23 561] tts_local  308  rcn:  0  
-[2021/08/14 23:39:23 561] tts_local  321  bgs:  0  
-[2021/08/14 23:39:23 561] tts_local  647  v5vn  
-[2021/08/14 23:39:23 561] tts_local  696  fit:  false  
-[2021/08/14 23:39:23 561] tts_local  551  type:  speed  value:  50  weight:  50  double_weight:  100  
-[2021/08/14 23:39:23 561] tts_local  551  type:  pitch  value:  50  weight:  50  double_weight:  100  
-[2021/08/14 23:39:23 561] tts_local  551  type:  volume  value:  50  weight:  50  double_weight:  100  
-[2021/08/14 23:39:23 561] tts_local  580  sample_rate:  528  
-[2021/08/14 23:39:23 561] tts_local  593  text_encoding:  65001  
-[2021/08/14 23:39:23 561] tts_local  614  rdn:  1  
-[2021/08/14 23:39:23 561] tts_local  627  effect:  0  
-[2021/08/14 23:39:23 561] tts_local  1738 tts_local.ssb ret:  0  
-[2021/08/14 23:39:23 562] tts_local  1888 last gc at  1628955563  
-[2021/08/14 23:39:23 562] tts_local  1746 TTS_LOCAL_MSG_TEXT  
-[2021/08/14 23:39:23 562] tts_local  1753 base64 =  5LqM44CB552j5L+D6KGM5Lia6JC95a6e44CK5Yqe5rOV44CL77yM55uR552j5qOA5p+l6YWN5ZCI5py65p6E6YOo44CB5Zyw5pa55bGA44CB5Lqk5piT5omA562J5Y2V5L2N77yM552j5L+D57uP6JCl5py65p6E5Zyo6L+H5rih5pyf5YaF77yM5LuO566h55CG5Yi25bqm44CB5oqA5pyv6K6+5aSH44CB5Lq65ZGY6YWN5aSH562J5ZCE5Liq5pa56Z2i5YGa5aW95YeG5aSH44CC552j5L+D57uP6JCl5py65p6E5a+55paw5byA56uL6LSm5oi35oiW5o6l5pS25pyN5Yqh55qE5a6i5oi35Y+K6LSt5Lmw5paw5Lqn5ZOB5oiW5o6l5Y+X5paw5pyN5Yqh55qE6ICB5a6i5oi35oyJ6KaB5rGC6L+b6KGM5YiG57G744CB6K+E5Lyw44CB5Yy56YWN5Y+K5Yqo5oCB566h55CG77yM5bu656uL5oqV6LWE6ICF6K+E5Lyw5pWw5o2u5bqT77yM5Lil5qC86JC95a6e6YCC5b2T5oCn566h55CG5Yi25bqm44CC5LiJ44CB5Z+56K6t5Lqk5rWB44CB5Y+N5pig5oOF5Ya1  
-[2021/08/14 23:39:23 562] tts_local  1888 last gc at  1628955563  
-[2021/08/14 23:39:23 564] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  212  ,data:  udata(fc093508) 
-[2021/08/14 23:39:23 565] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  11794  ,data:  udata(fc0416c8) 
-[2021/08/14 23:39:23 565] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  5088  ,data:  udata(fc041718) 
-[2021/08/14 23:39:23 566] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  6650  ,data:  udata(fc03ec08) 
-[2021/08/14 23:39:23 567] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7574  ,data:  udata(fc030af8) 
-[2021/08/14 23:39:23 567] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7238  ,data:  udata(fc0691a8) 
-[2021/08/14 23:39:23 568] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  13616  ,data:  udata(fc0285a8) 
-[2021/08/14 23:39:23 569] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  3750  ,data:  udata(fc041eb8) 
-[2021/08/14 23:39:23 569] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7856  ,data:  udata(fc006398) 
-[2021/08/14 23:39:23 570] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  8832  ,data:  udata(fc0063e8) 
-[2021/08/14 23:39:23 570] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc03f5c8) 
-[2021/08/14 23:39:23 571] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc055f78) 
-[2021/08/14 23:39:23 571] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc055fc8) 
-[2021/08/14 23:39:23 571] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc049fb8) 
-[2021/08/14 23:39:23 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc04a008) 
-[2021/08/14 23:39:23 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc048ab8) 
-[2021/08/14 23:39:23 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc048b08) 
-[2021/08/14 23:39:23 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc0491f8) 
-[2021/08/14 23:39:23 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc049248) 
-[2021/08/14 23:39:23 572] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc0764f8) 
-[2021/08/14 23:39:23 573] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc076548) 
-[2021/08/14 23:39:23 573] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc066f08) 
-[2021/08/14 23:39:23 573] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc066f58) 
-[2021/08/14 23:39:23 573] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc052298) 
-[2021/08/14 23:39:23 573] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc0522e8) 
-[2021/08/14 23:39:23 573] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc048948) 
-[2021/08/14 23:39:23 574] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc048998) 
-[2021/08/14 23:39:23 574] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(fc0489e8) 
-[2021/08/14 23:39:23 574] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  160  ,data:  udata(fc052018) 
-[2021/08/14 23:39:23 574] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  212  ,data:  udata(fc052068) 
-[2021/08/14 23:39:23 574] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  4614  ,data:  udata(fc0520b8) 
-[2021/08/14 23:39:23 574] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  5904  ,data:  udata(fc025748) 
-[2021/08/14 23:39:23 575] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  8680  ,data:  udata(fc025798) 
-[2021/08/14 23:39:23 576] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  7106  ,data:  udata(fc02fce8) 
-[2021/08/14 23:39:23 576] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  9526  ,data:  udata(fc02fd38) 
-[2021/08/14 23:39:23 577] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  6938  ,data:  udata(fc052838) 
-[2021/08/14 23:39:23 577] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  7872  ,data:  udata(fc0528e8) 
-[2021/08/14 23:39:23 578] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  4296  ,data:  udata(fc025438) 
-[2021/08/14 23:39:23 579] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  14022  ,data:  udata(fc0254e8) 
-[2021/08/14 23:39:23 579] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  3646  ,data:  udata(fc024c38) 
-[2021/08/14 23:39:23 580] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  5906  ,data:  udata(fc024ce8) 
-[2021/08/14 23:39:23 581] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  15426  ,data:  udata(fc0248a8) 
-[2021/08/14 23:39:23 582] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  3838  ,data:  udata(fc0248f8) 
-[2021/08/14 23:39:23 583] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  12690  ,data:  udata(fc025488) 
-[2021/08/14 23:39:23 584] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  11672  ,data:  udata(fc052888) 
-[2021/08/14 23:39:23 585] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  7162  ,data:  udata(fc024c88) 
-[2021/08/14 23:39:23 585] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  8816  ,data:  udata(fc0521f8) 
-[2021/08/14 23:39:23 586] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc024948) 
-[2021/08/14 23:39:23 586] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc0564b8) 
-[2021/08/14 23:39:23 586] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc056508) 
-[2021/08/14 23:39:23 586] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc056558) 
-[2021/08/14 23:39:23 587] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc047e48) 
-[2021/08/14 23:39:23 587] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc047e98) 
-[2021/08/14 23:39:23 587] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc047ee8) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc047f38) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc049d58) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc049da8) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc049df8) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc049e48) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc0509b8) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc050a08) 
-[2021/08/14 23:39:23 588] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc050a58) 
-[2021/08/14 23:39:23 589] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc050aa8) 
-[2021/08/14 23:39:23 589] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(fc048be8) 
-[2021/08/14 23:39:23 589] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(e4006d48) 
-[2021/08/14 23:39:23 589] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  160  ,data:  udata(fc048c38) 
-[2021/08/14 23:39:23 589] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  212  ,data:  udata(fc048c88) 
-[2021/08/14 23:39:23 589] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  3750  ,data:  udata(fc008de8) 
-[2021/08/14 23:39:23 590] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  7058  ,data:  udata(fc050908) 
-[2021/08/14 23:39:23 592] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  8576  ,data:  udata(fc008e38) 
-[2021/08/14 23:39:23 593] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  12690  ,data:  udata(fc008e88) 
-[2021/08/14 23:39:23 594] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  12426  ,data:  udata(fc008ed8) 
-[2021/08/14 23:39:23 595] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  3072  ,data:  udata(fc008f28) 
-[2021/08/14 23:39:23 596] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  6948  ,data:  udata(fc021688) 
-[2021/08/14 23:39:23 596] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  5870  ,data:  udata(fc0216d8) 
-[2021/08/14 23:39:23 597] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  7362  ,data:  udata(fc021728) 
-[2021/08/14 23:39:23 598] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  3842  ,data:  udata(fc021778) 
-[2021/08/14 23:39:23 598] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  10034  ,data:  udata(fc0217c8) 
-[2021/08/14 23:39:23 598] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc048538) 
-[2021/08/14 23:39:23 599] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc048588) 
-[2021/08/14 23:39:23 599] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc0485d8) 
-[2021/08/14 23:39:23 600] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc048628) 
-[2021/08/14 23:39:23 600] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc048678) 
-[2021/08/14 23:39:23 600] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc048ff8) 
-[2021/08/14 23:39:23 600] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc049048) 
-[2021/08/14 23:39:23 601] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc049098) 
-[2021/08/14 23:39:23 601] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc0490e8) 
-[2021/08/14 23:39:23 601] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc049138) 
-[2021/08/14 23:39:23 601] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc031638) 
-[2021/08/14 23:39:23 601] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc031688) 
-[2021/08/14 23:39:23 601] network    245  dns resp  0  ns1  
-[2021/08/14 23:39:23 601] ns         422  ns dns ok  42.62.116.35  
-[2021/08/14 23:39:23 601] ns         202  iplist not avail  
-[2021/08/14 23:39:23 602] ns         429  is_voicecloud_ip=  0  
-[2021/08/14 23:39:23 602] ns         436  ip_is_expected=  true  
-[2021/08/14 23:39:23 602] ns         444  ip_is_expected=  true  
-[2021/08/14 23:39:23 602] network    445  gethttpresp2  42.62.116.35  80  ns2  
-[2021/08/14 23:39:23 602] network    465  prot_type  tcp  
-[2021/08/14 23:39:23 603] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc0317d8) 
-[2021/08/14 23:39:23 603] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc0473d8) 
-[2021/08/14 23:39:23 604] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc047428) 
-[2021/08/14 23:39:23 604] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc047478) 
-[2021/08/14 23:39:23 604] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc0474c8) 
-[2021/08/14 23:39:23 604] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(fc047518) 
-[2021/08/14 23:39:23 604] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  160  ,data:  udata(fc047568) 
-[2021/08/14 23:39:23 605] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  212  ,data:  udata(fc0475b8) 
-[2021/08/14 23:39:23 605] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6148  ,data:  udata(fc047608) 
-[2021/08/14 23:39:23 605] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7156  ,data:  udata(fc047658) 
-[2021/08/14 23:39:23 605] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  4366  ,data:  udata(fc0476a8) 
-[2021/08/14 23:39:23 605] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8412  ,data:  udata(fc008658) 
-[2021/08/14 23:39:23 606] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  11780  ,data:  udata(fc0086a8) 
-[2021/08/14 23:39:23 606] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5566  ,data:  udata(fc0086f8) 
-[2021/08/14 23:39:23 607] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6012  ,data:  udata(fc008748) 
-[2021/08/14 23:39:23 607] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6060  ,data:  udata(fc008798) 
-[2021/08/14 23:39:23 608] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  13188  ,data:  udata(fc0087e8) 
-[2021/08/14 23:39:23 609] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  3168  ,data:  udata(fc008838) 
-[2021/08/14 23:39:23 610] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7188  ,data:  udata(fc086278) 
-[2021/08/14 23:39:23 611] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  11602  ,data:  udata(fc0862c8) 
-[2021/08/14 23:39:23 611] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5804  ,data:  udata(fc086318) 
-[2021/08/14 23:39:23 612] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5466  ,data:  udata(e4002028) 
-[2021/08/14 23:39:23 612] network    350  connected  ns2  
-[2021/08/14 23:39:23 613] network    353  send ok  268  ns2  
-[2021/08/14 23:39:23 613] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7112  ,data:  udata(fc08d118) 
-[2021/08/14 23:39:23 613] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8538  ,data:  udata(fc008888) 
-[2021/08/14 23:39:23 614] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8276  ,data:  udata(fc0088d8) 
-[2021/08/14 23:39:23 615] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  4046  ,data:  udata(fc008928) 
-[2021/08/14 23:39:23 616] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  9982  ,data:  udata(fc008978) 
-[2021/08/14 23:39:23 616] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6398  ,data:  udata(fc054368) 
-[2021/08/14 23:39:23 617] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5332  ,data:  udata(fc0089c8) 
-[2021/08/14 23:39:23 618] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7372  ,data:  udata(fc008a18) 
-[2021/08/14 23:39:23 618] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8864  ,data:  udata(fc046b48) 
-[2021/08/14 23:39:23 618] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097458) 
-[2021/08/14 23:39:23 619] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc0974a8) 
-[2021/08/14 23:39:23 619] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc0974f8) 
-[2021/08/14 23:39:23 619] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097548) 
-[2021/08/14 23:39:23 619] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097598) 
-[2021/08/14 23:39:23 620] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc0975e8) 
-[2021/08/14 23:39:23 620] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097638) 
-[2021/08/14 23:39:23 620] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097688) 
-[2021/08/14 23:39:23 620] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc0976d8) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097728) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc097778) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc020f08) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc020f58) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(e4005628) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc020fa8) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc020ff8) 
-[2021/08/14 23:39:23 621] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc021048) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc021098) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc028908) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc028958) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc0289a8) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc0289f8) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc028a48) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(fc028a98) 
-[2021/08/14 23:39:23 622] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  214  ,data:  udata(fc028ae8) 
-[2021/08/14 23:39:23 624] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  212  ,data:  udata(fc028b38) 
-[2021/08/14 23:39:23 625] network    362  readable  ns2  
-[2021/08/14 23:39:23 625] network    366  HTTP/1.1 200 OK
-Date: Sat, 14 Aug 2021 15:39:16 GMT
-Content-Type: application/json
-Content-Length: 307
-Connection: keep-alive
-Server: iflytek/hdns
-
-{"dns":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"42.62.42.10","port":1028,"idc":"dx"},{"ip":"42.62.42.18","port":80,"idc":"dx"}],"ttl":6000,"compel":0}]}],"default":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"42.62.42.18","port":80,"idc":"dx"}],"ttl":6000,"compel":0}]}]}  
-[2021/08/14 23:39:23 625] ns         253  name server http resp  0  
-[2021/08/14 23:39:23 625] ns         266  ns response OK for this time!  
-[2021/08/14 23:39:23 625] ns         277  from_server=  iflytek/hdns  
-[2021/08/14 23:39:23 625] ns         360  compel :  0  
-[2021/08/14 23:39:23 625] transport  1063 ns_ip =   42.62.42.10  
-[2021/08/14 23:39:23 626] transport  1064 ip_type =  assigned_athopen.xf-yun.com_host  
-[2021/08/14 23:39:23 626] transport  1304 [soc] connect   42.62.42.10  1028  
-[2021/08/14 23:39:23 626] transport  1316 mspsoc.open,prot_type=  tcp  
-[2021/08/14 23:39:23 626] ns         670  no data in ns_q  
-[2021/08/14 23:39:23 626] ns         671  conti_ns,ns_inprog =   1  
-[2021/08/14 23:39:23 626] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  3750  ,data:  udata(fc0a36a8) 
-[2021/08/14 23:39:23 627] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7674  ,data:  udata(fc0a37e8) 
-[2021/08/14 23:39:23 627] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8622  ,data:  udata(fc0a3908) 
-[2021/08/14 23:39:23 627] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  12442  ,data:  udata(fc04c948) 
-[2021/08/14 23:39:23 628] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  12626  ,data:  udata(fc052b48) 
-[2021/08/14 23:39:23 629] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4992  ,data:  udata(fc056198) 
-[2021/08/14 23:39:23 630] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  10600  ,data:  udata(fc0562b8) 
-[2021/08/14 23:39:23 631] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6356  ,data:  udata(fc049ec8) 
-[2021/08/14 23:39:23 631] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  3558  ,data:  udata(fc049a98) 
-[2021/08/14 23:39:23 632] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8052  ,data:  udata(fc009f28) 
-[2021/08/14 23:39:23 633] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14236  ,data:  udata(fc099b88) 
-[2021/08/14 23:39:23 633] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7870  ,data:  udata(fc04c9d8) 
-[2021/08/14 23:39:23 634] transport  473  [soc] [1] connected  
-[2021/08/14 23:39:23 634] transport  1799 transport_obj.try2send | in  
-[2021/08/14 23:39:23 634] transport  1800 self.soc  udata(fc0345c8) 
-[2021/08/14 23:39:23 634] transport  1801 self.connected  true  
-[2021/08/14 23:39:23 634] transport  1802 self.latesterr  0  
-[2021/08/14 23:39:23 634] transport  1819 transport:try2send,#msg_q=  1  
-[2021/08/14 23:39:23 634] transport  1359 build http request.  
-[2021/08/14 23:39:23 634] transport  1476 POST /msp.do HTTP/1.1
+[2021/08/16 10:33:32 884] tts_local  1837 Linux  
+[2021/08/16 10:33:32 884] tts_local  1873 SYS_MSG_REGCB_LOCAL  
+[2021/08/16 10:33:32 884] tts_local  1888 last gc at  1629081212  
+[2021/08/16 10:33:32 884] tts_local  1873 SYS_MSG_REGCB_LOCAL  
+[2021/08/16 10:33:32 884] tts_local  1888 last gc at  1629081212  
+[2021/08/16 10:33:32 884] tts_local  1680 TTS_LOCAL_MSG_SSB  engine_type=local,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  
+[2021/08/16 10:33:32 884] tts_local  1572 fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2021/08/16 10:33:32 884] tts_local  1575 nil  
+[2021/08/16 10:33:32 884] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2021/08/16 10:33:32 885] tts_local  890  Disperse res  
+[2021/08/16 10:33:32 885] tts_local  994  fo|res/tts/xiaoyan.jet  fo|res/tts/common.jet  
+[2021/08/16 10:33:32 885] tts_local  1579 res_change is  true  
+[2021/08/16 10:33:32 885] tts_local  1595 res change  
+[2021/08/16 10:33:32 885] tts_local  1398 lgi:  nil  nil  
+[2021/08/16 10:33:32 885] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2021/08/16 10:33:32 885] tts_local  890  Disperse res  
+[2021/08/16 10:33:32 885] tts_local  852  file_type:  fo  file_path:  res/tts/xiaoyan.jet  
+[2021/08/16 10:33:32 885] tts_local  852  file_type:  fo  file_path:  res/tts/common.jet  
+[2021/08/16 10:33:32 885] tts_local  1426 fo  fo  res/tts/xiaoyan.jet  0  res/tts/common.jet  0  false  
+[2021/08/16 10:33:32 885] tts_local  1033 speech_plus_setting  0  
+[2021/08/16 10:33:32 885] tts_local  1041 fo  res/tts/xiaoyan.jet  0  0  
+[2021/08/16 10:33:32 885] tts_local  1045 res_ver  0  
+[2021/08/16 10:33:32 885] tts_local  1046 res appid5    
+[2021/08/16 10:33:32 885] tts_local  1047 res_new_old_mark  v5vn  
+[2021/08/16 10:33:32 885] tts_local  1048 res_usr_name    
+[2021/08/16 10:33:32 885] tts_local  1049 check ret  0  
+[2021/08/16 10:33:32 885] tts_local  1129 v5vn  
+[2021/08/16 10:33:32 886] tts_local  1188 now expires:  1629081212  1636276722  
+[2021/08/16 10:33:32 886] auth       86   aisound  app  nil  nil  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
+[2021/08/16 10:33:32 887] auth       165  auth get aisound_res_id  nil  
+[2021/08/16 10:33:32 887] auth       420  nil  
+[2021/08/16 10:33:32 887] tts_local  1033 speech_plus_setting  0  
+[2021/08/16 10:33:32 887] tts_local  1041 fo  res/tts/common.jet  0  0  
+[2021/08/16 10:33:32 887] tts_local  1045 res_ver  0  
+[2021/08/16 10:33:32 887] tts_local  1046 res appid5    
+[2021/08/16 10:33:32 887] tts_local  1047 res_new_old_mark  v5vn  
+[2021/08/16 10:33:32 887] tts_local  1048 res_usr_name    
+[2021/08/16 10:33:32 887] tts_local  1049 check ret  0  
+[2021/08/16 10:33:32 887] tts_local  1129 v5vn  
+[2021/08/16 10:33:32 888] tts_local  1188 now expires:  1629081212  1636276722  
+[2021/08/16 10:33:32 888] tts_local  1475 v5vn  v5vn  
+[2021/08/16 10:33:32 888] auth       86   aisound  app  nil  nil  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
+[2021/08/16 10:33:32 888] auth       165  auth get aisound_res_id  nil  
+[2021/08/16 10:33:32 888] auth       420  nil  
+[2021/08/16 10:33:32 888] tts_local  1518 fo  res/tts/xiaoyan.jet  145  fo  res/tts/common.jet  113  false  func(d006cf50) 
+[2021/08/16 10:33:32 890] tts_local  1534 engine init success  
+[2021/08/16 10:33:32 890] tts_local  862  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2021/08/16 10:33:32 890] tts_local  890  Disperse res  
+[2021/08/16 10:33:32 891] tts_local  1597 reinit ret:  0  
+[2021/08/16 10:33:32 891] tts_local  1314 app auth  
+[2021/08/16 10:33:32 891] auth       687  app  nil  nil  nil  
+[2021/08/16 10:33:32 891] auth       744  ath rquest  {"authorize":[{"busin":"aisound","ver":"2.1.1"}]}  
+[2021/08/16 10:33:32 891] config     91   select default  
+[2021/08/16 10:33:32 891] config     113  use general cloud  
+[2021/08/16 10:33:32 891] transport  645  paramkvsport is   nil  
+[2021/08/16 10:33:32 891] transport  657  ns_enable=  1  
+[2021/08/16 10:33:32 891] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2021/08/16 10:33:32 891] transport  665  net.nettype=  unknown  
+[2021/08/16 10:33:32 891] transport  675  url.full=  nil  
+[2021/08/16 10:33:32 891] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2021/08/16 10:33:32 891] transport  907  net type:  unknown  
+[2021/08/16 10:33:32 891] transport  908  net operator:  def  
+[2021/08/16 10:33:32 891] transport  909  use proxy:  false  
+[2021/08/16 10:33:32 892] auth       799  not login!  
+[2021/08/16 10:33:32 892] auth       636  [session] send auth request  
+[2021/08/16 10:33:32 892] transport  1105 session.domain=  open.xf-yun.com  
+[2021/08/16 10:33:32 892] transport  1106 url.host=  open.xf-yun.com  
+[2021/08/16 10:33:32 892] transport  1083 NAMESERVER START  
+[2021/08/16 10:33:32 892] transport  1086 name =   ath  
+[2021/08/16 10:33:32 892] ns         634  ntt=  unknown  
+[2021/08/16 10:33:32 892] transport  1089 trans,ns_inprog =  0  
+[2021/08/16 10:33:32 892] ns         582  name server start  
+[2021/08/16 10:33:32 892] ns         588  ns_sub =   ath  
+[2021/08/16 10:33:32 892] ns         596  ns_host =   open.xf-yun.com  
+[2021/08/16 10:33:32 892] ns         475  ns_host=  open.xf-yun.com  
+[2021/08/16 10:33:32 892] ns         555  net_type =  standard  
+[2021/08/16 10:33:32 892] ns         556  cmwapascmnet =  
+[2021/08/16 10:33:32 892] ns         557  uniwapasuninet =  
+[2021/08/16 10:33:32 892] ns         558  ctwapasctnet =  
+[2021/08/16 10:33:32 892] ns         576  host=  hdns.xf-yun.com  
+[2021/08/16 10:33:32 892] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2021/08/16 10:33:32 893] auth       643  0  
+[2021/08/16 10:33:32 893] auth       606  lver:  nil  
+[2021/08/16 10:33:32 893] auth       611  cfg_ver:  nil  
+[2021/08/16 10:33:32 893] transport  1860 transport_obj.send | in  
+[2021/08/16 10:33:32 893] transport  1866 self.msg_flag_q  table(d0009020) 
+[2021/08/16 10:33:32 893] transport  1867 self.msg_q  table(d0009390) 
+[2021/08/16 10:33:32 893] transport  1799 transport_obj.try2send | in  
+[2021/08/16 10:33:32 893] transport  1800 self.soc  nil  
+[2021/08/16 10:33:32 893] transport  1801 self.connected  false  
+[2021/08/16 10:33:32 893] transport  1802 self.latesterr  0  
+[2021/08/16 10:33:32 893] transport  1873 transport_obj.send | out  
+[2021/08/16 10:33:32 893] tts_local  1367 forbid_aisound =  0  
+[2021/08/16 10:33:32 893] tts_local  1644 set voice name:  xiaoyan  
+[2021/08/16 10:33:32 893] tts_local  1646 set default voice name:  xiaoyan  
+[2021/08/16 10:33:32 893] tts_local  295  speed increase:  1  
+[2021/08/16 10:33:32 894] tts_local  308  rcn:  0  
+[2021/08/16 10:33:32 894] tts_local  321  bgs:  0  
+[2021/08/16 10:33:32 894] tts_local  647  v5vn  
+[2021/08/16 10:33:32 894] tts_local  696  fit:  false  
+[2021/08/16 10:33:32 894] tts_local  551  type:  speed  value:  50  weight:  50  double_weight:  100  
+[2021/08/16 10:33:32 894] tts_local  551  type:  pitch  value:  50  weight:  50  double_weight:  100  
+[2021/08/16 10:33:32 894] tts_local  551  type:  volume  value:  50  weight:  50  double_weight:  100  
+[2021/08/16 10:33:32 894] tts_local  580  sample_rate:  528  
+[2021/08/16 10:33:32 895] tts_local  593  text_encoding:  65001  
+[2021/08/16 10:33:32 895] tts_local  614  rdn:  1  
+[2021/08/16 10:33:32 895] tts_local  627  effect:  0  
+[2021/08/16 10:33:32 895] tts_local  1738 tts_local.ssb ret:  0  
+[2021/08/16 10:33:32 895] tts_local  1888 last gc at  1629081212  
+[2021/08/16 10:33:32 895] tts_local  1746 TTS_LOCAL_MSG_TEXT  
+[2021/08/16 10:33:32 895] tts_local  1753 base64 =  5LqM44CB552j5L+D6KGM5Lia6JC95a6e44CK5Yqe5rOV44CL77yM55uR552j5qOA5p+l6YWN5ZCI5py65p6E6YOo44CB5Zyw5pa55bGA44CB5Lqk5piT5omA562J5Y2V5L2N77yM552j5L+D57uP6JCl5py65p6E5Zyo6L+H5rih5pyf5YaF77yM5LuO566h55CG5Yi25bqm44CB5oqA5pyv6K6+5aSH44CB5Lq65ZGY6YWN5aSH562J5ZCE5Liq5pa56Z2i5YGa5aW95YeG5aSH44CC552j5L+D57uP6JCl5py65p6E5a+55paw5byA56uL6LSm5oi35oiW5o6l5pS25pyN5Yqh55qE5a6i5oi35Y+K6LSt5Lmw5paw5Lqn5ZOB5oiW5o6l5Y+X5paw5pyN5Yqh55qE6ICB5a6i5oi35oyJ6KaB5rGC6L+b6KGM5YiG57G744CB6K+E5Lyw44CB5Yy56YWN5Y+K5Yqo5oCB566h55CG77yM5bu656uL5oqV6LWE6ICF6K+E5Lyw5pWw5o2u5bqT77yM5Lil5qC86JC95a6e6YCC5b2T5oCn566h55CG5Yi25bqm44CC5LiJ44CB5Z+56K6t5Lqk5rWB44CB5Y+N5pig5oOF5Ya1  
+[2021/08/16 10:33:32 895] tts_local  1888 last gc at  1629081212  
+[2021/08/16 10:33:32 896] network    245  dns resp  0  ns1  
+[2021/08/16 10:33:32 896] ns         422  ns dns ok  42.62.116.35  
+[2021/08/16 10:33:32 896] ns         202  iplist not avail  
+[2021/08/16 10:33:32 896] ns         429  is_voicecloud_ip=  0  
+[2021/08/16 10:33:32 896] ns         436  ip_is_expected=  true  
+[2021/08/16 10:33:32 896] ns         444  ip_is_expected=  true  
+[2021/08/16 10:33:32 897] network    445  gethttpresp2  42.62.116.35  80  ns2  
+[2021/08/16 10:33:32 897] network    465  prot_type  tcp  
+[2021/08/16 10:33:32 898] transport  194  [dns] [1] response 42.62.116.35  
+[2021/08/16 10:33:32 898] transport  202  42  62  116  35  
+[2021/08/16 10:33:32 898] transport  204  ipv =  v4  
+[2021/08/16 10:33:32 898] transport  208  dns ip is v4  
+[2021/08/16 10:33:32 898] transport  130  iplist not avail  
+[2021/08/16 10:33:32 899] transport  247  no iplist now  
+[2021/08/16 10:33:32 899] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  42.62.116.35  
+[2021/08/16 10:33:32 900] transport  291  dns cb start conn  
+[2021/08/16 10:33:32 900] transport  1304 [soc] connect   42.62.116.35  1028  
+[2021/08/16 10:33:32 900] transport  1316 mspsoc.open,prot_type=  tcp  
+[2021/08/16 10:33:32 903] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  212  ,data:  udata(d0055e58) 
+[2021/08/16 10:33:32 903] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  11794  ,data:  udata(d007a348) 
+[2021/08/16 10:33:32 904] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  5088  ,data:  udata(d0050a08) 
+[2021/08/16 10:33:32 904] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  6650  ,data:  udata(d009bde8) 
+[2021/08/16 10:33:32 904] network    350  connected  ns2  
+[2021/08/16 10:33:32 905] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7574  ,data:  udata(d009d518) 
+[2021/08/16 10:33:32 905] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7238  ,data:  udata(d0049d68) 
+[2021/08/16 10:33:32 905] network    353  send ok  268  ns2  
+[2021/08/16 10:33:32 906] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  13616  ,data:  udata(d004c9c8) 
+[2021/08/16 10:33:32 906] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  3750  ,data:  udata(d0056478) 
+[2021/08/16 10:33:32 907] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  7856  ,data:  udata(c0001858) 
+[2021/08/16 10:33:32 908] transport  473  [soc] [1] connected  
+[2021/08/16 10:33:32 908] transport  1799 transport_obj.try2send | in  
+[2021/08/16 10:33:32 908] transport  1800 self.soc  udata(d0050af8) 
+[2021/08/16 10:33:32 908] transport  1801 self.connected  true  
+[2021/08/16 10:33:32 908] transport  1802 self.latesterr  0  
+[2021/08/16 10:33:32 908] transport  1819 transport:try2send,#msg_q=  1  
+[2021/08/16 10:33:32 908] transport  1359 build http request.  
+[2021/08/16 10:33:32 909] transport  1476 POST /msp.do HTTP/1.1
 X-Sub: auth
 X-Par: ver=MSSP+0%2E9&sub=auth&cmd=rath&key=08FNEIpsQMg6U=
 Host: open.xf-yun.com
 CT: multipart/mixed;boundary=--
-CL: 361
+CL: 360
 
 ----
 Content-Length:48
@@ -322,185 +163,345 @@ Content-Encoding:gzip
 
 36
 xœËN­´µL3K1HN450244NN6J4N52N424I±4ML3·  
-[2021/08/14 23:39:23 635] transport  1819 transport:try2send,#msg_q=  0  
-[2021/08/14 23:39:23 635] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8872  ,data:  udata(fc066af8) 
-[2021/08/14 23:39:23 635] transport  482  [soc] [1] send ok  524  
-[2021/08/14 23:39:23 635] transport  1799 transport_obj.try2send | in  
-[2021/08/14 23:39:23 635] transport  1800 self.soc  udata(fc0345c8) 
-[2021/08/14 23:39:23 635] transport  1801 self.connected  true  
-[2021/08/14 23:39:23 635] transport  1802 self.latesterr  0  
-[2021/08/14 23:39:23 635] transport  1819 transport:try2send,#msg_q=  0  
-[2021/08/14 23:39:23 635] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6764  ,data:  udata(fc009c38) 
-[2021/08/14 23:39:23 636] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8096  ,data:  udata(fc086988) 
-[2021/08/14 23:39:23 637] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4428  ,data:  udata(fc009998) 
-[2021/08/14 23:39:23 637] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  9698  ,data:  udata(fc090248) 
-[2021/08/14 23:39:23 638] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  12766  ,data:  udata(fc03f2b8) 
-[2021/08/14 23:39:23 639] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7198  ,data:  udata(fc049b88) 
-[2021/08/14 23:39:23 639] transport  194  [dns] [1] response 42.62.116.35  
-[2021/08/14 23:39:23 640] transport  202  42  62  116  35  
-[2021/08/14 23:39:23 640] transport  204  ipv =  v4  
-[2021/08/14 23:39:23 640] transport  208  dns ip is v4  
-[2021/08/14 23:39:23 640] transport  130  iplist not avail  
-[2021/08/14 23:39:23 640] transport  247  no iplist now  
-[2021/08/14 23:39:23 640] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  42.62.116.35  
-[2021/08/14 23:39:23 641] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5904  ,data:  udata(fc0a34b8) 
-[2021/08/14 23:39:23 641] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4784  ,data:  udata(fc0a3638) 
-[2021/08/14 23:39:23 641] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  11302  ,data:  udata(fc0250c8) 
-[2021/08/14 23:39:23 642] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6856  ,data:  udata(fc04f828) 
-[2021/08/14 23:39:23 643] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14852  ,data:  udata(fc0a3568) 
-[2021/08/14 23:39:23 644] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7966  ,data:  udata(fc047138) 
-[2021/08/14 23:39:23 645] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8452  ,data:  udata(fc04e088) 
-[2021/08/14 23:39:23 646] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6724  ,data:  udata(fc0a1958) 
-[2021/08/14 23:39:23 647] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8396  ,data:  udata(fc0521f8) 
-[2021/08/14 23:39:23 647] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7418  ,data:  udata(fc050908) 
-[2021/08/14 23:39:23 648] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4454  ,data:  udata(fc0317d8) 
-[2021/08/14 23:39:23 649] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4884  ,data:  udata(fc0a2708) 
-[2021/08/14 23:39:23 650] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14318  ,data:  udata(fc0a21a8) 
-[2021/08/14 23:39:23 651] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6036  ,data:  udata(fc0a1e58) 
-[2021/08/14 23:39:23 651] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4854  ,data:  udata(fc0a1dd8) 
-[2021/08/14 23:39:23 652] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7164  ,data:  udata(fc0691a8) 
-[2021/08/14 23:39:23 653] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8500  ,data:  udata(fc0a3978) 
-[2021/08/14 23:39:23 653] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7736  ,data:  udata(fc093508) 
-[2021/08/14 23:39:23 654] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7044  ,data:  udata(fc03ec08) 
-[2021/08/14 23:39:23 655] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5954  ,data:  udata(fc053158) 
-[2021/08/14 23:39:23 656] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14328  ,data:  udata(fc02eea8) 
-[2021/08/14 23:39:23 657] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6910  ,data:  udata(fc028dd8) 
-[2021/08/14 23:39:23 658] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  13148  ,data:  udata(fc0a39e8) 
-[2021/08/14 23:39:23 659] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  9308  ,data:  udata(fc0a35d8) 
-[2021/08/14 23:39:23 659] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5560  ,data:  udata(fc046b48) 
-[2021/08/14 23:39:23 660] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8872  ,data:  udata(fc08d118) 
-[2021/08/14 23:39:23 660] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6454  ,data:  udata(fc0496b8) 
-[2021/08/14 23:39:23 661] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7512  ,data:  udata(fc0869d8) 
-[2021/08/14 23:39:23 661] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5014  ,data:  udata(fc0502c8) 
-[2021/08/14 23:39:23 662] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5512  ,data:  udata(fc04db08) 
-[2021/08/14 23:39:23 662] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  10794  ,data:  udata(e4002028) 
-[2021/08/14 23:39:23 663] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(e4008d98) 
-[2021/08/14 23:39:23 663] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc0993d8) 
-[2021/08/14 23:39:23 663] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc0a20f8) 
-[2021/08/14 23:39:23 664] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc054368) 
-[2021/08/14 23:39:23 664] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc046fe8) 
-[2021/08/14 23:39:23 664] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc04deb8) 
-[2021/08/14 23:39:23 664] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc098678) 
-[2021/08/14 23:39:23 664] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc0989d8) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc082f88) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc04c8b8) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc07c9f8) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc0525f8) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc0988a8) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc03f5c8) 
-[2021/08/14 23:39:23 665] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc0285a8) 
-[2021/08/14 23:39:23 666] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc03db18) 
-[2021/08/14 23:39:23 666] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc049ae8) 
-[2021/08/14 23:39:23 666] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(fc049b38) 
-[2021/08/14 23:39:23 666] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  160  ,data:  udata(fc052bb8) 
-[2021/08/14 23:39:23 666] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  212  ,data:  udata(fc052c08) 
-[2021/08/14 23:39:23 667] transport  494  [soc] [1] readable  
-[2021/08/14 23:39:23 667] transport  1767 HTTP/1.1 200 OK
+[2021/08/16 10:33:32 909] transport  1819 transport:try2send,#msg_q=  0  
+[2021/08/16 10:33:32 909] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  8832  ,data:  udata(d0090038) 
+[2021/08/16 10:33:32 910] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d00766a8) 
+[2021/08/16 10:33:32 911] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0020ed8) 
+[2021/08/16 10:33:32 911] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d00529d8) 
+[2021/08/16 10:33:32 911] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0056658) 
+[2021/08/16 10:33:32 911] transport  482  [soc] [1] send ok  523  
+[2021/08/16 10:33:32 911] transport  1799 transport_obj.try2send | in  
+[2021/08/16 10:33:32 911] transport  1800 self.soc  udata(d0050af8) 
+[2021/08/16 10:33:32 912] transport  1801 self.connected  true  
+[2021/08/16 10:33:32 912] transport  1802 self.latesterr  0  
+[2021/08/16 10:33:32 912] transport  1819 transport:try2send,#msg_q=  0  
+[2021/08/16 10:33:32 912] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0056028) 
+[2021/08/16 10:33:32 912] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(c0001b88) 
+[2021/08/16 10:33:32 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0051bc8) 
+[2021/08/16 10:33:32 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0050a58) 
+[2021/08/16 10:33:32 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d00764a8) 
+[2021/08/16 10:33:32 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d008cf08) 
+[2021/08/16 10:33:32 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d00563e8) 
+[2021/08/16 10:33:32 913] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d003bc18) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d003b5c8) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0054988) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0047128) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0030938) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0046d68) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  512  ,data:  udata(d0028dd8) 
+[2021/08/16 10:33:32 914] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  39  ,nSize:  160  ,data:  udata(d0047818) 
+[2021/08/16 10:33:32 915] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  212  ,data:  udata(d004c938) 
+[2021/08/16 10:33:32 915] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  4614  ,data:  udata(d00567f8) 
+[2021/08/16 10:33:32 915] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  5904  ,data:  udata(d0054f88) 
+[2021/08/16 10:33:32 916] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  8680  ,data:  udata(d004a018) 
+[2021/08/16 10:33:32 917] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  7106  ,data:  udata(d00478d8) 
+[2021/08/16 10:33:32 919] network    362  readable  ns2  
+[2021/08/16 10:33:32 921] network    366  HTTP/1.1 200 OK
+Date: Mon, 16 Aug 2021 02:33:25 GMT
+Content-Type: application/json
+Content-Length: 310
+Connection: keep-alive
+Server: iflytek/hdns
+
+{"dns":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"42.62.116.34","port":80,"idc":"dx"},{"ip":"42.62.42.10","port":1028,"idc":"dx"}],"ttl":6000,"compel":0}]}],"default":[{"host":"open.xf-yun.com","sip":[{"svc":"ath","ips":[{"ip":"42.62.42.10","port":1028,"idc":"dx"}],"ttl":6000,"compel":0}]}]}  
+[2021/08/16 10:33:32 922] ns         253  name server http resp  0  
+[2021/08/16 10:33:32 922] ns         266  ns response OK for this time!  
+[2021/08/16 10:33:32 922] ns         277  from_server=  iflytek/hdns  
+[2021/08/16 10:33:32 923] ns         360  compel :  0  
+[2021/08/16 10:33:32 924] transport  1063 ns_ip =   42.62.116.34  
+[2021/08/16 10:33:32 924] transport  1064 ip_type =  assigned_athopen.xf-yun.com_host  
+[2021/08/16 10:33:32 924] ns         670  no data in ns_q  
+[2021/08/16 10:33:32 924] ns         671  conti_ns,ns_inprog =   1  
+[2021/08/16 10:33:32 924] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  9526  ,data:  udata(d00a3b18) 
+[2021/08/16 10:33:32 924] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  6938  ,data:  udata(c00091a8) 
+[2021/08/16 10:33:32 925] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  7872  ,data:  udata(d00a3be8) 
+[2021/08/16 10:33:32 926] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  4296  ,data:  udata(d00a3c58) 
+[2021/08/16 10:33:32 927] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  14022  ,data:  udata(d00a3ce8) 
+[2021/08/16 10:33:32 929] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  3646  ,data:  udata(d00a3e08) 
+[2021/08/16 10:33:32 930] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  5906  ,data:  udata(d0021bb8) 
+[2021/08/16 10:33:32 931] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  15426  ,data:  udata(d0049db8) 
+[2021/08/16 10:33:32 932] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  3838  ,data:  udata(d00a4028) 
+[2021/08/16 10:33:32 933] transport  494  [soc] [1] readable  
+[2021/08/16 10:33:32 933] transport  1767 HTTP/1.1 200 OK
 Content-Length: 88
-X-Req-Date: 2021/08/14 23:39:22 333
-X-Par: ver=MSSP+0%2E9&ret=0&key=09cl8zvPvh1WPsf11Uz/FBjE5u1gQB4mXU4Vkp3wOHt^iXdOMqwIsVow==
+X-Req-Date: 2021/08/16 10:33:25 487
+X-Par: ver=MSSP+0%2E9&ret=0&key=093TRbChlqvb4c3pe557fVm02RKAw4Stk2^5Oy5VHoiq^XdOMqwIsVow==
 CE: gzip
 CT: binary/authinfo
 CL: 88
 Content-Length: 88
-X-Res-Date: 2021/08/14 23:39:22 347
+X-Res-Date: 2021/08/16 10:33:25 503
 
 81
 xœ«VJÌ,Î/ÍKQ²ªV*K-R²R2RÒQJ*-	¤Vd¥Æ§$–¤*Yš›™›™é(¥å%eõ(  
-[2021/08/14 23:39:23 667] transport  1494 a_complete_httpmessage  200  
-[2021/08/14 23:39:23 667] transport  1604 is_update  true  
-[2021/08/14 23:39:23 667] transport  1608 port updated  1028  
-[2021/08/14 23:39:23 667] transport  1610 switch  1028  
-[2021/08/14 23:39:23 667] auth       455  [trans] [id = table: 0x7fb0fc04cb80;;;=0===;auth] readable  
-[2021/08/14 23:39:23 668] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  42.62.116.35  
-[2021/08/14 23:39:23 668] transport  972  iplist not avail  
-[2021/08/14 23:39:23 668] transport  1332 [soc] disconnect   
-[2021/08/14 23:39:23 668] transport  991  transport clean  
-[2021/08/14 23:39:23 668] auth       491  auth_json=  udata(fc0289d8) 
-[2021/08/14 23:39:23 668] auth       492  tostring(auth_json)=  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
-[2021/08/14 23:39:23 668] auth       86   aisound  app  nil  nil  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
-[2021/08/14 23:39:23 669] auth       165  auth get aisound_res_id  nil  
-[2021/08/14 23:39:23 669] auth       512  auth ok!  
-[2021/08/14 23:39:23 670] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  4614  ,data:  udata(fc0a3018) 
-[2021/08/14 23:39:23 670] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  3866  ,data:  udata(fc052e68) 
-[2021/08/14 23:39:23 670] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  10348  ,data:  udata(fc052eb8) 
-[2021/08/14 23:39:23 670] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  7208  ,data:  udata(fc052f08) 
-[2021/08/14 23:39:23 671] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  4358  ,data:  udata(fc052f58) 
-[2021/08/14 23:39:23 671] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  8358  ,data:  udata(fc052fa8) 
-[2021/08/14 23:39:23 671] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  5170  ,data:  udata(fc052ff8) 
-[2021/08/14 23:39:23 672] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  9828  ,data:  udata(fc053048) 
-[2021/08/14 23:39:23 672] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  5944  ,data:  udata(fc053098) 
-[2021/08/14 23:39:23 673] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  7186  ,data:  udata(fc0473d8) 
-[2021/08/14 23:39:23 674] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  7358  ,data:  udata(fc047428) 
-[2021/08/14 23:39:23 674] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc047478) 
-[2021/08/14 23:39:23 674] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0474c8) 
-[2021/08/14 23:39:23 675] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc047518) 
-[2021/08/14 23:39:23 675] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc047568) 
-[2021/08/14 23:39:23 675] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0475b8) 
-[2021/08/14 23:39:23 676] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc047608) 
-[2021/08/14 23:39:23 676] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc047658) 
-[2021/08/14 23:39:23 676] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0476a8) 
-[2021/08/14 23:39:23 676] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0961b8) 
-[2021/08/14 23:39:23 676] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc096208) 
-[2021/08/14 23:39:23 677] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0962d8) 
-[2021/08/14 23:39:23 677] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc096328) 
-[2021/08/14 23:39:23 677] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc096378) 
-[2021/08/14 23:39:23 677] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0963c8) 
-[2021/08/14 23:39:23 677] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc096418) 
-[2021/08/14 23:39:23 677] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc096468) 
-[2021/08/14 23:39:23 678] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc0964b8) 
-[2021/08/14 23:39:23 678] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(fc096508) 
-[2021/08/14 23:39:23 678] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  160  ,data:  udata(fc0a0418) 
-[2021/08/14 23:39:23 678] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  138  ,data:  udata(fc0a0468) 
-[2021/08/14 23:39:23 678] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  9264  ,data:  udata(fc0a04b8) 
-[2021/08/14 23:39:23 679] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  6278  ,data:  udata(fc096258) 
-[2021/08/14 23:39:23 680] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  10482  ,data:  udata(fc0a0508) 
-[2021/08/14 23:39:23 680] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  8760  ,data:  udata(fc0a0558) 
-[2021/08/14 23:39:23 681] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  2544  ,data:  udata(fc049048) 
-[2021/08/14 23:39:23 681] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  9644  ,data:  udata(fc0a05a8) 
-[2021/08/14 23:39:23 682] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  7264  ,data:  udata(fc0a05f8) 
-[2021/08/14 23:39:23 682] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  3986  ,data:  udata(fc098508) 
-[2021/08/14 23:39:23 683] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  8248  ,data:  udata(fc098558) 
-[2021/08/14 23:39:23 684] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  3982  ,data:  udata(fc0a0648) 
-[2021/08/14 23:39:23 684] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  8752  ,data:  udata(fc048538) 
-[2021/08/14 23:39:23 685] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0a0698) 
-[2021/08/14 23:39:23 685] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(e4009768) 
-[2021/08/14 23:39:23 686] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0a06e8) 
-[2021/08/14 23:39:23 686] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0a0738) 
-[2021/08/14 23:39:23 687] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0a0788) 
-[2021/08/14 23:39:23 687] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0a07d8) 
-[2021/08/14 23:39:23 688] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc00d2f8) 
-[2021/08/14 23:39:23 688] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc00d348) 
-[2021/08/14 23:39:23 688] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc00d398) 
-[2021/08/14 23:39:23 688] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0832c8) 
-[2021/08/14 23:39:23 688] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083318) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083368) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0833b8) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083408) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083458) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0834a8) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0834f8) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083548) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083598) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0835e8) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083638) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc083688) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc0996f8) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(fc099748) 
-[2021/08/14 23:39:23 689] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  214  ,data:  udata(fc099798) 
-[2021/08/14 23:39:23 690] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  212  ,data:  udata(fc0997e8) 
-[2021/08/14 23:39:23 691] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  14596  ,data:  udata(fc099838) 
-[2021/08/14 23:39:23 691] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  4800  ,data:  udata(fc099888) 
-[2021/08/14 23:39:23 692] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  6062  ,data:  udata(fc0998d8) 
-[2021/08/14 23:39:23 693] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  6482  ,data:  udata(fc099928) 
-[2021/08/14 23:39:23 693] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  13478  ,data:  udata(fc0999d8) 
-[2021/08/14 23:39:23 694] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  4512  ,data:  udata(fc099a28) 
-[2021/08/14 23:39:23 695] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  13992  ,data:  udata(fc099ad8) 
-[2021/08/14 23:39:23 695] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  6676  ,data:  udata(fc099b28) 
-[2021/08/14 23:39:23 696] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  8542  ,data:  udata(fc095778) 
-[2021/08/14 23:39:23 696] tts_local  941  TTS_LOCAL_CB_END  0  nil  
-[2021/08/14 23:39:23 706] tts_local  1795 TTS_LOCAL_MSG_END  0  
-[2021/08/14 23:39:23 706] tts_local  1199 plog_process  {"ret":0,"u_lrs":158,"hints":"Normal","stime":"2021/08/14 23:39:23 547","dur":159,"csid":"ctts1P1HHBHJ1RkFwkTNWaaCHEaVt1dj1on","u_frs":17,"u_txt":1}  nil  
-[2021/08/14 23:39:23 707] tts_local  1888 last gc at  1628955563  
-[2021/08/14 23:39:23 707] tts_local  1853 SYS_MSG_SHUTDOWN_LOCAL  
-[2021/08/14 23:39:23 708] tts_local  1888 last gc at  1628955563  
+[2021/08/16 10:33:32 933] transport  1494 a_complete_httpmessage  200  
+[2021/08/16 10:33:32 933] transport  1604 is_update  true  
+[2021/08/16 10:33:32 933] transport  1608 port updated  1028  
+[2021/08/16 10:33:32 933] transport  1610 switch  1028  
+[2021/08/16 10:33:32 933] auth       455  [trans] [id = table: 0x7f4cd004c9f0;;;=0===;auth] readable  
+[2021/08/16 10:33:32 934] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  42.62.116.35  
+[2021/08/16 10:33:32 934] transport  981  cached ip is confirmed  
+[2021/08/16 10:33:32 934] transport  1332 [soc] disconnect   
+[2021/08/16 10:33:32 934] transport  991  transport clean  
+[2021/08/16 10:33:32 934] auth       491  auth_json=  udata(d00a6d28) 
+[2021/08/16 10:33:32 935] auth       492  tostring(auth_json)=  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
+[2021/08/16 10:33:32 935] auth       86   aisound  app  nil  nil  {"aisound":{"ver":"2","bus":{"expire_date":1636276722,"forbid":"0","nlimit":10}}}  
+[2021/08/16 10:33:32 935] auth       165  auth get aisound_res_id  nil  
+[2021/08/16 10:33:32 936] auth       512  auth ok!  
+[2021/08/16 10:33:32 936] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  12690  ,data:  udata(d00a4268) 
+[2021/08/16 10:33:32 936] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  11672  ,data:  udata(c0000f88) 
+[2021/08/16 10:33:32 936] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  7162  ,data:  udata(d00317c8) 
+[2021/08/16 10:33:32 937] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  8816  ,data:  udata(d0047068) 
+[2021/08/16 10:33:32 937] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d00470b8) 
+[2021/08/16 10:33:32 937] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0047108) 
+[2021/08/16 10:33:32 938] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d000d2f8) 
+[2021/08/16 10:33:32 938] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d000d348) 
+[2021/08/16 10:33:32 938] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d000d398) 
+[2021/08/16 10:33:32 939] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0046ce8) 
+[2021/08/16 10:33:32 939] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0046d38) 
+[2021/08/16 10:33:32 939] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0046d88) 
+[2021/08/16 10:33:32 940] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0046dd8) 
+[2021/08/16 10:33:32 940] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0046e28) 
+[2021/08/16 10:33:32 940] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d00b0f58) 
+[2021/08/16 10:33:32 941] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d00b0fa8) 
+[2021/08/16 10:33:32 941] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d00b0ff8) 
+[2021/08/16 10:33:32 941] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d00b1048) 
+[2021/08/16 10:33:32 942] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(c0008608) 
+[2021/08/16 10:33:32 942] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d00b1098) 
+[2021/08/16 10:33:32 942] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0055348) 
+[2021/08/16 10:33:32 942] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  512  ,data:  udata(d0055398) 
+[2021/08/16 10:33:32 943] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  102  ,nSize:  160  ,data:  udata(d00553e8) 
+[2021/08/16 10:33:32 943] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  212  ,data:  udata(d0055438) 
+[2021/08/16 10:33:32 943] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  3750  ,data:  udata(d0055488) 
+[2021/08/16 10:33:32 943] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  7058  ,data:  udata(d0055988) 
+[2021/08/16 10:33:32 944] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  8576  ,data:  udata(d0032918) 
+[2021/08/16 10:33:32 945] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  12690  ,data:  udata(d00559d8) 
+[2021/08/16 10:33:32 947] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  12426  ,data:  udata(d00a3b88) 
+[2021/08/16 10:33:32 947] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  3072  ,data:  udata(d00a2b78) 
+[2021/08/16 10:33:32 948] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  6948  ,data:  udata(c0009d68) 
+[2021/08/16 10:33:32 949] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  5870  ,data:  udata(d0055a28) 
+[2021/08/16 10:33:32 950] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  7362  ,data:  udata(d0055a78) 
+[2021/08/16 10:33:32 951] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  3842  ,data:  udata(d0055ac8) 
+[2021/08/16 10:33:32 951] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  10034  ,data:  udata(d00b5268) 
+[2021/08/16 10:33:32 952] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d00b51e8) 
+[2021/08/16 10:33:32 952] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(c0005488) 
+[2021/08/16 10:33:32 952] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d0052508) 
+[2021/08/16 10:33:32 953] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d0052558) 
+[2021/08/16 10:33:32 953] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d00525a8) 
+[2021/08/16 10:33:32 954] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d00525f8) 
+[2021/08/16 10:33:32 954] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d0052258) 
+[2021/08/16 10:33:32 954] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d00522a8) 
+[2021/08/16 10:33:32 955] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d00522f8) 
+[2021/08/16 10:33:32 955] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d0052348) 
+[2021/08/16 10:33:32 955] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d0052398) 
+[2021/08/16 10:33:32 955] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d00523e8) 
+[2021/08/16 10:33:32 955] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d009bd18) 
+[2021/08/16 10:33:32 956] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d009bd68) 
+[2021/08/16 10:33:32 956] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d009bdb8) 
+[2021/08/16 10:33:32 956] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d009be08) 
+[2021/08/16 10:33:32 956] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d009be58) 
+[2021/08/16 10:33:32 956] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  512  ,data:  udata(d009bea8) 
+[2021/08/16 10:33:32 957] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  138  ,nSize:  160  ,data:  udata(d00999a8) 
+[2021/08/16 10:33:32 957] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  212  ,data:  udata(d00999f8) 
+[2021/08/16 10:33:32 957] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6148  ,data:  udata(d0099a48) 
+[2021/08/16 10:33:32 958] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7156  ,data:  udata(d0052488) 
+[2021/08/16 10:33:32 958] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  4366  ,data:  udata(d0099a98) 
+[2021/08/16 10:33:32 959] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8412  ,data:  udata(d0099ae8) 
+[2021/08/16 10:33:32 960] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  11780  ,data:  udata(d0099b38) 
+[2021/08/16 10:33:32 961] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5566  ,data:  udata(d008fe08) 
+[2021/08/16 10:33:32 962] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6012  ,data:  udata(d0082788) 
+[2021/08/16 10:33:32 963] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6060  ,data:  udata(d00827d8) 
+[2021/08/16 10:33:32 964] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  13188  ,data:  udata(c0003538) 
+[2021/08/16 10:33:32 965] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  3168  ,data:  udata(d0055668) 
+[2021/08/16 10:33:32 966] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7188  ,data:  udata(d00556b8) 
+[2021/08/16 10:33:32 967] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  11602  ,data:  udata(d0055708) 
+[2021/08/16 10:33:32 968] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5804  ,data:  udata(d0055758) 
+[2021/08/16 10:33:32 969] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5466  ,data:  udata(d0055808) 
+[2021/08/16 10:33:32 970] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7112  ,data:  udata(c00085b8) 
+[2021/08/16 10:33:32 971] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8538  ,data:  udata(d00b1e18) 
+[2021/08/16 10:33:32 972] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8276  ,data:  udata(d00b1e68) 
+[2021/08/16 10:33:32 972] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  4046  ,data:  udata(d0009b78) 
+[2021/08/16 10:33:32 973] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  9982  ,data:  udata(d0009bc8) 
+[2021/08/16 10:33:32 974] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  6398  ,data:  udata(d0009c78) 
+[2021/08/16 10:33:32 975] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  5332  ,data:  udata(d00557a8) 
+[2021/08/16 10:33:32 976] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  7372  ,data:  udata(d0009cc8) 
+[2021/08/16 10:33:32 976] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  8864  ,data:  udata(d0009d18) 
+[2021/08/16 10:33:32 977] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d0009c18) 
+[2021/08/16 10:33:32 977] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d00b50e8) 
+[2021/08/16 10:33:32 978] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(c0001cf8) 
+[2021/08/16 10:33:32 978] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d00b5138) 
+[2021/08/16 10:33:32 978] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d00b5188) 
+[2021/08/16 10:33:32 979] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d00216e8) 
+[2021/08/16 10:33:32 979] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d0021738) 
+[2021/08/16 10:33:32 980] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d0021788) 
+[2021/08/16 10:33:32 980] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d00217d8) 
+[2021/08/16 10:33:32 980] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d0021828) 
+[2021/08/16 10:33:32 980] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d0021878) 
+[2021/08/16 10:33:32 981] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a158) 
+[2021/08/16 10:33:32 981] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a1a8) 
+[2021/08/16 10:33:32 981] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a1f8) 
+[2021/08/16 10:33:32 981] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a248) 
+[2021/08/16 10:33:32 982] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a298) 
+[2021/08/16 10:33:32 982] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a2e8) 
+[2021/08/16 10:33:32 982] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a338) 
+[2021/08/16 10:33:32 982] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a848) 
+[2021/08/16 10:33:32 982] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a898) 
+[2021/08/16 10:33:32 982] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a8e8) 
+[2021/08/16 10:33:32 983] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a938) 
+[2021/08/16 10:33:32 983] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a988) 
+[2021/08/16 10:33:32 983] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  512  ,data:  udata(d009a9d8) 
+[2021/08/16 10:33:32 983] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  213  ,nSize:  214  ,data:  udata(d009aa28) 
+[2021/08/16 10:33:32 984] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  212  ,data:  udata(d009aa78) 
+[2021/08/16 10:33:32 985] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  3750  ,data:  udata(d00a2368) 
+[2021/08/16 10:33:32 986] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7674  ,data:  udata(d00b1eb8) 
+[2021/08/16 10:33:32 987] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8622  ,data:  udata(d00a23b8) 
+[2021/08/16 10:33:32 988] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  12442  ,data:  udata(d00a2408) 
+[2021/08/16 10:33:32 990] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  12626  ,data:  udata(d00a2458) 
+[2021/08/16 10:33:32 990] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4992  ,data:  udata(d00a24a8) 
+[2021/08/16 10:33:32 992] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  10600  ,data:  udata(d00a24f8) 
+[2021/08/16 10:33:32 993] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6356  ,data:  udata(d00a2548) 
+[2021/08/16 10:33:32 993] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  3558  ,data:  udata(c0005af8) 
+[2021/08/16 10:33:32 994] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8052  ,data:  udata(d00b2368) 
+[2021/08/16 10:33:32 995] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14236  ,data:  udata(d00b2498) 
+[2021/08/16 10:33:32 996] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7870  ,data:  udata(d00a2598) 
+[2021/08/16 10:33:32 997] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8872  ,data:  udata(d00b2438) 
+[2021/08/16 10:33:32 998] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6764  ,data:  udata(c0003498) 
+[2021/08/16 10:33:32 999] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8096  ,data:  udata(d00a25e8) 
+[2021/08/16 10:33:33 000] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4428  ,data:  udata(d00b23b8) 
+[2021/08/16 10:33:33 002] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  9698  ,data:  udata(d00b24e8) 
+[2021/08/16 10:33:33 003] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  12766  ,data:  udata(d00b2538) 
+[2021/08/16 10:33:33 004] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7198  ,data:  udata(d00b2588) 
+[2021/08/16 10:33:33 005] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5904  ,data:  udata(d00b25d8) 
+[2021/08/16 10:33:33 006] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4784  ,data:  udata(d00b2628) 
+[2021/08/16 10:33:33 007] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  11302  ,data:  udata(d00b2678) 
+[2021/08/16 10:33:33 007] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6856  ,data:  udata(d0053208) 
+[2021/08/16 10:33:33 009] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14852  ,data:  udata(c0007948) 
+[2021/08/16 10:33:33 010] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7966  ,data:  udata(d0053258) 
+[2021/08/16 10:33:33 011] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8452  ,data:  udata(c0004378) 
+[2021/08/16 10:33:33 012] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6724  ,data:  udata(d00532a8) 
+[2021/08/16 10:33:33 013] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8396  ,data:  udata(d00532f8) 
+[2021/08/16 10:33:33 015] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7418  ,data:  udata(d0053348) 
+[2021/08/16 10:33:33 015] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4454  ,data:  udata(d0053398) 
+[2021/08/16 10:33:33 016] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4884  ,data:  udata(d00533e8) 
+[2021/08/16 10:33:33 018] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14318  ,data:  udata(d0053438) 
+[2021/08/16 10:33:33 019] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6036  ,data:  udata(d0053488) 
+[2021/08/16 10:33:33 019] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  4854  ,data:  udata(d00534d8) 
+[2021/08/16 10:33:33 020] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7164  ,data:  udata(d0053528) 
+[2021/08/16 10:33:33 022] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8500  ,data:  udata(d0053578) 
+[2021/08/16 10:33:33 023] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7736  ,data:  udata(d00535c8) 
+[2021/08/16 10:33:33 024] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7044  ,data:  udata(d0033bd8) 
+[2021/08/16 10:33:33 025] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5954  ,data:  udata(d0033c28) 
+[2021/08/16 10:33:33 028] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  14328  ,data:  udata(d0033c78) 
+[2021/08/16 10:33:33 029] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6910  ,data:  udata(d00b0268) 
+[2021/08/16 10:33:33 031] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  13148  ,data:  udata(d00b4f18) 
+[2021/08/16 10:33:33 031] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  9308  ,data:  udata(d00b4f68) 
+[2021/08/16 10:33:33 032] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5560  ,data:  udata(d00a6878) 
+[2021/08/16 10:33:33 034] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  8872  ,data:  udata(d00a68c8) 
+[2021/08/16 10:33:33 034] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  6454  ,data:  udata(d00b4fb8) 
+[2021/08/16 10:33:33 035] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  7512  ,data:  udata(d00b5008) 
+[2021/08/16 10:33:33 036] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5014  ,data:  udata(d00b5058) 
+[2021/08/16 10:33:33 037] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  5512  ,data:  udata(d00b02b8) 
+[2021/08/16 10:33:33 038] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  10794  ,data:  udata(d00b0308) 
+[2021/08/16 10:33:33 038] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b0358) 
+[2021/08/16 10:33:33 039] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b03a8) 
+[2021/08/16 10:33:33 039] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b03f8) 
+[2021/08/16 10:33:33 040] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b0448) 
+[2021/08/16 10:33:33 040] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b0498) 
+[2021/08/16 10:33:33 040] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b04e8) 
+[2021/08/16 10:33:33 041] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d00b0538) 
+[2021/08/16 10:33:33 041] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033cc8) 
+[2021/08/16 10:33:33 041] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033d18) 
+[2021/08/16 10:33:33 042] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d002fad8) 
+[2021/08/16 10:33:33 042] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d002fb28) 
+[2021/08/16 10:33:33 042] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033d68) 
+[2021/08/16 10:33:33 043] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033db8) 
+[2021/08/16 10:33:33 043] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033e08) 
+[2021/08/16 10:33:33 043] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033e58) 
+[2021/08/16 10:33:33 044] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033ea8) 
+[2021/08/16 10:33:33 044] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033ef8) 
+[2021/08/16 10:33:33 044] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  512  ,data:  udata(d0033f48) 
+[2021/08/16 10:33:33 045] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  378  ,nSize:  160  ,data:  udata(d0033f98) 
+[2021/08/16 10:33:33 045] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  212  ,data:  udata(d004a0b8) 
+[2021/08/16 10:33:33 045] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  4614  ,data:  udata(d004a108) 
+[2021/08/16 10:33:33 046] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  3866  ,data:  udata(d004a158) 
+[2021/08/16 10:33:33 046] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  10348  ,data:  udata(d004a1a8) 
+[2021/08/16 10:33:33 046] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  7208  ,data:  udata(d004a1f8) 
+[2021/08/16 10:33:33 046] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  4358  ,data:  udata(d004a248) 
+[2021/08/16 10:33:33 047] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  8358  ,data:  udata(d004a298) 
+[2021/08/16 10:33:33 048] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  5170  ,data:  udata(c0005ce8) 
+[2021/08/16 10:33:33 049] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  9828  ,data:  udata(d002fa78) 
+[2021/08/16 10:33:33 050] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  5944  ,data:  udata(d004a2e8) 
+[2021/08/16 10:33:33 051] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  7186  ,data:  udata(d004a338) 
+[2021/08/16 10:33:33 051] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  7358  ,data:  udata(d004a388) 
+[2021/08/16 10:33:33 052] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d004a3d8) 
+[2021/08/16 10:33:33 052] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d004a428) 
+[2021/08/16 10:33:33 052] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6458) 
+[2021/08/16 10:33:33 053] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6528) 
+[2021/08/16 10:33:33 053] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6578) 
+[2021/08/16 10:33:33 053] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a65c8) 
+[2021/08/16 10:33:33 054] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6618) 
+[2021/08/16 10:33:33 054] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6668) 
+[2021/08/16 10:33:33 055] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a66b8) 
+[2021/08/16 10:33:33 055] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6708) 
+[2021/08/16 10:33:33 056] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a6758) 
+[2021/08/16 10:33:33 056] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a67a8) 
+[2021/08/16 10:33:33 056] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00a67f8) 
+[2021/08/16 10:33:33 056] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d0028908) 
+[2021/08/16 10:33:33 057] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d0028958) 
+[2021/08/16 10:33:33 057] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00289a8) 
+[2021/08/16 10:33:33 057] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d00289f8) 
+[2021/08/16 10:33:33 057] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  512  ,data:  udata(d0028a48) 
+[2021/08/16 10:33:33 057] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  411  ,nSize:  160  ,data:  udata(d0028a98) 
+[2021/08/16 10:33:33 057] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  138  ,data:  udata(d0028ae8) 
+[2021/08/16 10:33:33 058] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  9264  ,data:  udata(d0028b38) 
+[2021/08/16 10:33:33 058] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  6278  ,data:  udata(d00a64a8) 
+[2021/08/16 10:33:33 059] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  10482  ,data:  udata(d0028b88) 
+[2021/08/16 10:33:33 060] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  8760  ,data:  udata(d0028bd8) 
+[2021/08/16 10:33:33 061] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  2544  ,data:  udata(d0028c28) 
+[2021/08/16 10:33:33 062] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  9644  ,data:  udata(d0028c78) 
+[2021/08/16 10:33:33 063] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  7264  ,data:  udata(d0028cc8) 
+[2021/08/16 10:33:33 064] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  3986  ,data:  udata(d00b7718) 
+[2021/08/16 10:33:33 065] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  8248  ,data:  udata(d004a478) 
+[2021/08/16 10:33:33 065] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  3982  ,data:  udata(d00b4ca8) 
+[2021/08/16 10:33:33 066] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  8752  ,data:  udata(d00b4cf8) 
+[2021/08/16 10:33:33 066] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b4d48) 
+[2021/08/16 10:33:33 067] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b4d98) 
+[2021/08/16 10:33:33 067] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b4de8) 
+[2021/08/16 10:33:33 067] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b4e38) 
+[2021/08/16 10:33:33 068] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b4e88) 
+[2021/08/16 10:33:33 068] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(c0007db8) 
+[2021/08/16 10:33:33 068] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1ae8) 
+[2021/08/16 10:33:33 068] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1b38) 
+[2021/08/16 10:33:33 069] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1b88) 
+[2021/08/16 10:33:33 069] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1bd8) 
+[2021/08/16 10:33:33 070] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1c28) 
+[2021/08/16 10:33:33 070] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1c78) 
+[2021/08/16 10:33:33 071] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1cc8) 
+[2021/08/16 10:33:33 071] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1d18) 
+[2021/08/16 10:33:33 071] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1d68) 
+[2021/08/16 10:33:33 072] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00b1db8) 
+[2021/08/16 10:33:33 072] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a7088) 
+[2021/08/16 10:33:33 072] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a70d8) 
+[2021/08/16 10:33:33 072] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a7188) 
+[2021/08/16 10:33:33 073] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a71d8) 
+[2021/08/16 10:33:33 073] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a7228) 
+[2021/08/16 10:33:33 073] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a7278) 
+[2021/08/16 10:33:33 073] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a72c8) 
+[2021/08/16 10:33:33 074] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  512  ,data:  udata(d00a7318) 
+[2021/08/16 10:33:33 074] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  447  ,nSize:  214  ,data:  udata(d00a7368) 
+[2021/08/16 10:33:33 074] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  212  ,data:  udata(d00a73b8) 
+[2021/08/16 10:33:33 074] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  14596  ,data:  udata(d00a7408) 
+[2021/08/16 10:33:33 075] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  4800  ,data:  udata(d00a7458) 
+[2021/08/16 10:33:33 075] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  6062  ,data:  udata(d0034518) 
+[2021/08/16 10:33:33 076] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  6482  ,data:  udata(d0034568) 
+[2021/08/16 10:33:33 077] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  13478  ,data:  udata(d00345b8) 
+[2021/08/16 10:33:33 078] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  4512  ,data:  udata(d0034608) 
+[2021/08/16 10:33:33 079] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  13992  ,data:  udata(d0034658) 
+[2021/08/16 10:33:33 080] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  6676  ,data:  udata(d00b0118) 
+[2021/08/16 10:33:33 081] tts_local  954  TTS_LOCAL_CB_OUTPUT  nCode:  528  ,ced:  480  ,nSize:  8542  ,data:  udata(d00b0168) 
+[2021/08/16 10:33:33 081] tts_local  941  TTS_LOCAL_CB_END  0  nil  
+[2021/08/16 10:33:33 088] tts_local  1795 TTS_LOCAL_MSG_END  0  
+[2021/08/16 10:33:33 088] tts_local  1199 plog_process  {"stime":"2021/08/16 10:33:32 879","csid":"ctts1PdHHBHJPTgGpsK3aampTWnQds3HRt","dur":208,"u_txt":1,"ret":0,"hints":"Normal","u_frs":24,"u_lrs":208}  nil  
+[2021/08/16 10:33:33 090] tts_local  1888 last gc at  1629081212  
+[2021/08/16 10:33:33 090] tts_local  1853 SYS_MSG_SHUTDOWN_LOCAL  
+[2021/08/16 10:33:33 090] tts_local  1888 last gc at  1629081212  

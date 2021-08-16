@@ -497,7 +497,7 @@ public class PptToVideoTool {
                 cmdWriteTxt.append("echo 'file " + picNames.get(i) + "' >> " + tempTxtFilePath + " \n");
                 cmdWriteTxt.append("echo 'duration " + mm.getValue() + "' >> " + tempTxtFilePath + " \n");
                 if (i == picNames.size() - 1) {
-                    cmdWriteTxt.append("echo 'file " + picNames.get(i) + "' >> " + tempTxtFilePath + " ");
+                  //  cmdWriteTxt.append("echo 'file " + picNames.get(i) + "' >> " + tempTxtFilePath + " ");
                 }
                 i++;
             }
